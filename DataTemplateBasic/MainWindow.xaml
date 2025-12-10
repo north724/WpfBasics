@@ -46,5 +46,6 @@
 
     <ContentControl Grid.Column="1" 
                     Content="{Binding CurrentViewModel}"/> 
+      TEST
   </Grid>
 </Window>
